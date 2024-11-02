@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS in general
 - 💞️ I’m looking to collaborate on data science projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I honestly hate sleeping 
+- ⚡ (Not so) Fun fact: I honestly hate sleeping 
 
 <!---
 kimodri/kimodri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
