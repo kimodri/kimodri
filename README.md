@@ -1,3 +1,5 @@
+# 👋 Hello!
+
 - 👋 Hi, I’m @kimodri
 - 👀 I’m interested in Data Science and Physics
 - 🌱 I’m currently learning CS in general
