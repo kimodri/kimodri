@@ -1,8 +1,9 @@
 # 👋 Hello!
 
-- Kim Audrey, a Computer Science student
+- I am Kim Audrey, a Computer Science student
 - I focus on Data Science and ML Engineering
-- Also eyeing backend development, data engineering, and theoretical physics
+- Also eyeing backend development, data engineering, <br>
+  and theoretical physics (hopefully 😅)
 
 If you want to collaborate, hit me up!
 
