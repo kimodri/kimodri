@@ -2,7 +2,7 @@
 
 - Kim Audrey, a Computer Science student
 - I focus on Data Science and ML Engineering
-- Also eyeing backend development and data engineering
+- Also eyeing backend development, data engineering, and theoretical physics
 
 If you want to collaborate, hit me up!
 
