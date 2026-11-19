@@ -22,6 +22,10 @@ Outside of software, I'm also interested in theoretical physics, although that's
 
 [![Frameworks](https://skillicons.dev/icons?i=django,fastapi,laravel,react,sklearn)](https://skillicons.dev)
 
+**Data Platforms**
+
+![Data Platforms](https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake)
+
 **Databases & Tools**
 
 [![Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github)](https://skillicons.dev)
