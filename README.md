@@ -1,24 +1,35 @@
-# 👋 Hello!
 
-- I am Kim Audrey, a Computer Science student
-- I focus on Data Science and ML Engineering
-- I am also eyeing backend development, data engineering, <br>
-  and theoretical physics (hopefully😅)
+# Hi, I'm Kim Audrey!
 
-If you want to collaborate, hit me up!
+I'm a Computer Science student with a strong interest in **Backend Development, Data Engineering, and Machine Learning**.
 
-## 🧙‍♂️ Magic Spells
+I enjoy building software, working with data, and understanding how systems work behind the scenes. Most of my projects involve 
+- developing APIs
+- designing databases
+- experimenting with data-driven solutions.
 
-[![My Spells](https://skillicons.dev/icons?i=python,r,sklearn,java,sqlite,git,c,html)](https://skillicons.dev)
+I'm constantly learning, building, and improving my skills, one project (and a few bugs) at a time.
 
+Outside of software, I'm also interested in theoretical physics, although that's still a work in progress 😅.
 
-<!--
-kimodri/kimodri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @kimodri
-- 👀 I’m interested in Data Science and Physics
-- 🌱 I’m currently learning CS in general
-- 💞️ I’m looking to collaborate on data science projects
-- 😄 Pronouns: he/him
-- ⚡ (Not so) Fun fact: I honestly hate sleeping 
---->
+## Tech Stack
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=python,php,js,java,c,r)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+
+[![Frameworks](https://skillicons.dev/icons?i=django,fastapi,laravel,react,sklearn)](https://skillicons.dev)
+
+**Databases & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github)](https://skillicons.dev)
+
+## Let's Connect
+
+I'm currently open to **internship and entry-level opportunities** in backend development, software engineering, and data engineering.
+
+I'm also open to collaborating on interesting projects.
+
+Feel free to reach out. I'm always happy to discuss ideas, technology, or something worth building.
