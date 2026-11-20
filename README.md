@@ -32,7 +32,7 @@ Outside of software, I'm also interested in theoretical physics, although that's
 
 ## Let's Connect
 
-I'm currently open to **internship and entry-level opportunities** in backend development, software engineering, and data engineering.
+I'm currently open to **internship and entry-level opportunities**.
 
 I'm also open to collaborating on interesting projects.
 
